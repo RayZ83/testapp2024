@@ -1,0 +1,7 @@
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\testwebapp.exe
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\testwebapp.dll
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\testwebapp.deps.json
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\testwebapp.runtimeconfig.json
+C:\Users\rtan8\source\repos\testwebapp\obj\Release\net8.0\PubTmp\Out\testwebapp.pdb
